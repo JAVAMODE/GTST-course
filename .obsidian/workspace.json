@@ -35,7 +35,8 @@
               "title": "day 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46599633627a3f2",
+  "active": "deddc7e38b79f4a7",
   "lastOpenFiles": [
-    "day 2.md",
-    "README.md"
+    "README.md",
+    "day 2.md"
   ]
 }
